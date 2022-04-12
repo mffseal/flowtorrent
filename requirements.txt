@@ -1,0 +1,4 @@
+Flask==2.1.1
+
+libtorrent~=2.0.5
+requests~=2.23.0
